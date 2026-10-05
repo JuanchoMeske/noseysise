@@ -2,3 +2,9 @@ h1{
     font-family: fantasy;
     font-size: 10rem;
 }
+
+h2{
+    font-family: fantasy;
+    font-size: xx-small;
+    color: blueviolet;
+}
